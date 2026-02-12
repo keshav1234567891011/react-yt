@@ -1,0 +1,12 @@
+.header {
+  
+  background-color: rgb(205, 255, 233);
+  display: flex;
+  justify-content: space-between;
+  margin:5px;
+  padding: 10 20 30 40;
+}
+
+.btn {
+  background-color: rgb(205, 255, 233);
+}
